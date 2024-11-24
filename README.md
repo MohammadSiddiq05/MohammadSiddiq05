@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MohammadSiddiq05
-- 👀 I’m interested to become a software developer
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Muhammad Siddiq Shah
+- 👀 I’m interested to become a Software Engineer
+- 🌱 I have completed Python programming and TypeScript
+- 🌱 I'm currently learning Web and App Development
 - 💞️ I’m looking to collaborate with software companies
 - 📫 How to reach me siddiqshah478@gmail.com
 - ⚡ Fun fact: I'm interested in software-related fields & I enjoy learning new things.
