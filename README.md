@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-siddiq-shah-software-developer" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-siddiq-shah" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammad siddiq shah linkedin" />
   </a>
   <a href="mailto:siddiqshah478@gmail.com">
