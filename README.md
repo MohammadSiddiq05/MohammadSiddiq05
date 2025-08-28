@@ -73,11 +73,8 @@ I'm a passionate frontend developer with expertise in modern JavaScript framewor
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-siddiq-shah-software-developer" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-siddiq-shah/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad siddiq shah" height="30" width="40" />
-  </a>
-  <a href="https://portfolio-muhammadsiddiq.vercel.app" target="blank">
-    <img align="center" src="https://img.icons8.com/doodle/48/000000/portfolio.png" alt="portfolio" height="40" width="40" />
   </a>
   <a href="mailto:siddiqshah478@gmail.com">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="40" width="40" />
