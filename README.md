@@ -1,30 +1,89 @@
 <h1 align="center">Hi 👋, I'm Muhammad Siddiq Shah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Frontend Developer | MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on **Improving my skills in MERN Stack**
-
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 👯 I’m looking to collaborate on **MERN applications to gain real-world experience**
-
-- 🤝 I’m looking for help with **React best practices & real-world project structure**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-
-- 📫 How to reach me **siddiqshah478@gmail.com**
-
-- ⚡ Fun fact **I explain code to my laptop like it’s my classmate 😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad siddiq shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad siddiq shah" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Continuous+Learner;User+Experience+Focus" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-siddiq-shah-software-developer" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammad siddiq shah linkedin" />
+  </a>
+  <a href="mailto:siddiqshah478@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsiddiq05&show_icons=true&locale=en&layout=compact" alt="mohammadsiddiq05" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsiddiq05&show_icons=true&locale=en" alt="mohammadsiddiq05" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsiddiq05&" alt="mohammadsiddiq05" /></p>
+I'm a passionate frontend developer with expertise in modern JavaScript frameworks and a strong foundation in the MERN stack. I enjoy creating responsive, user-friendly web applications with clean, maintainable code. My approach combines technical expertise with an eye for design to deliver exceptional user experiences.
+
+- 🔭 **Currently working on:** Advanced MERN stack applications with focus on performance optimization
+- 🌱 **Currently learning:** Advanced React patterns, Node.js backend development, and system design
+- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
+- 💬 **Ask me about:** React, JavaScript, responsive design, and frontend architecture
+- ⚡ **Fun fact:** I explain code to my laptop like it's my classmate - it never talks back but somehow I learn better!
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-25A162?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean-Code-7fd3f2?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammadsiddiq05&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsiddiq05&theme=radical" />
+</p>
+
+---
+
+## 📈 Productivity Stats
+
+![Productivity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadsiddiq05&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mohammadsiddiq05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-siddiq-shah-software-developer" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad siddiq shah" height="30" width="40" />
+  </a>
+  <a href="https://portfolio-muhammadsiddiq.vercel.app" target="blank">
+    <img align="center" src="https://img.icons8.com/doodle/48/000000/portfolio.png" alt="portfolio" height="40" width="40" />
+  </a>
+  <a href="mailto:siddiqshah478@gmail.com">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="40" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadsiddiq05&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsiddiq05" />
+</p>
