@@ -54,7 +54,7 @@ I'm a passionate frontend developer with expertise in modern JavaScript framewor
 <p align="center">
   <div align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mohammadsiddiq05&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsiddiq05&layout=compact&theme=radical&langs_count=6&hide=html,css" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsiddiq05&layout=compact&theme=radical&langs_count=6" />
   </div>
 </p>
 
