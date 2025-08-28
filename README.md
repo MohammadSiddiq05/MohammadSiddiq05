@@ -56,11 +56,6 @@ I'm a passionate frontend developer with expertise in modern JavaScript framewor
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mohammadsiddiq05&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsiddiq05&layout=compact&theme=radical&langs_count=6&hide=html,css" />
   </div>
-  
-  <div align="center">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsiddiq05&theme=radical" />
-    <img width="45%" src="https://github-profile-trophy.vercel.app/?username=mohammadsiddiq05&theme=radical&column=4&margin-w=15&margin-h=15" />
-  </div>
 </p>
 
 ## 📈 Productivity Stats
