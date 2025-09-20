@@ -1,18 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Siddiq Shah</h1>
-<h3 align="center">Frontend Developer | MERN Stack Developer</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Continuous+Learner;User+Experience+Focus" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-siddiq-shah" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammad siddiq shah linkedin" />
-  </a>
-  <a href="mailto:siddiqshah478@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Muhammad Siddiq Shah</h1> <h3 align="center">Frontend Developer | MERN Stack Developer</h3><p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Continuous+Learner;User+Experience+Focus" alt="Typing SVG" /></a> </p><p align="center"> <a href="https://www.linkedin.com/in/muhammad-siddiq-shah" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammad siddiq shah linkedin" /> </a> <a href="mailto:siddiqshah478@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /> </a> </p>
 
 ---
 
