@@ -51,26 +51,19 @@ I'm a passionate frontend developer with expertise in modern JavaScript framewor
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammadsiddiq05&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsiddiq05&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadSiddiq05&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/MohammadSiddiq05)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSiddiq05&layout=compact&theme=radical)](https://github.com/MohammadSiddiq05)
 </p>
 
-## 📈 Productivity Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadsiddiq05&theme=radical" alt="Productivity" />
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadSiddiq05&theme=radical)](https://github.com/MohammadSiddiq05)
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadsiddiq05&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  [![Profile Views](https://komarev.com/ghpvc/?username=MohammadSiddiq05&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohammadSiddiq05)
 </p>
+
 
 ---
 
