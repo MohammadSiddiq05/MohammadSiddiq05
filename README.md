@@ -51,9 +51,11 @@ I'm a passionate frontend developer with expertise in modern JavaScript framewor
 
 ---
 
+## 📊 GitHub Stats (Fallback Safe Version)
+
 <p align="center">
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadSiddiq05&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/MohammadSiddiq05)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSiddiq05&layout=compact&theme=radical)](https://github.com/MohammadSiddiq05)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSiddiq05&layout=compact&theme=radical)](https://github.com/MohammadSiddiq05)
 </p>
 
 <p align="center">
@@ -63,7 +65,6 @@ I'm a passionate frontend developer with expertise in modern JavaScript framewor
 <p align="center">
   [![Profile Views](https://komarev.com/ghpvc/?username=MohammadSiddiq05&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohammadSiddiq05)
 </p>
-
 
 ---
 
@@ -78,6 +79,3 @@ I'm a passionate frontend developer with expertise in modern JavaScript framewor
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadsiddiq05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
