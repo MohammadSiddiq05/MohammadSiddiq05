@@ -1,3 +1,6 @@
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMohammadSiddiq05&style=plastic" alt="Rankistan rank badge">
+</a>
 <h1 align="center">Hi 👋, I'm Muhammad Siddiq Shah</h1>
 <h3 align="center">Full Stack MERN Developer | JavaScript Expert | Problem Solver</h3>
 
